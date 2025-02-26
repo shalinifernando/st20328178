@@ -1,5 +1,6 @@
 com\example\mavenproject14\JakartaRestConfiguration.class
-com\example\mavenproject14\controller\UserServlet.class
-com\example\mavenproject14\model\User.class
 com\example\mavenproject14\dao\UserDAO.class
+com\example\mavenproject14\controller\UserServlet.class
+com\example\mavenproject14\newpackage\UserManager.class
+com\example\mavenproject14\model\User.class
 com\example\mavenproject14\resources\JakartaEE8Resource.class

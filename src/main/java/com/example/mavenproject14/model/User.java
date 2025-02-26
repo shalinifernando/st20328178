@@ -27,6 +27,10 @@ public class User {
         this.country = country;
     }
 
+    public User(String customerName, String address, String telephone, String destination) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     /**
      * @return the id
      */
