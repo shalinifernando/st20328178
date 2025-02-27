@@ -1,4 +1,6 @@
 com\example\mavenproject14\JakartaRestConfiguration.class
+com\example\mavenproject14\CarDAOsingleton\CarDAO.class
+com\example\mavenproject14\carmodel\Car.class
 com\example\mavenproject14\dao\UserDAO.class
 com\example\mavenproject14\controller\UserServlet.class
 com\example\mavenproject14\newpackage\UserManager.class
